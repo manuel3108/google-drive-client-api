@@ -69,6 +69,8 @@ function deleteFile(id) {
 ```
 
 ## example
+go here https://google-drive-client-api.serret.dev/
+or
 - clone this repo
 - `cd example`
 - `npm install`
