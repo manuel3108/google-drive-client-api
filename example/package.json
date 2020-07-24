@@ -16,7 +16,7 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "google-drive-client-api": "file:..",
+    "google-drive-client-api": "^0.1.1",
     "sirv-cli": "^0.4.4"
   }
 }
